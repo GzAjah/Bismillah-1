@@ -2,8 +2,8 @@
 from instagrapi import Client
 import time
 
-USERNAME = "your_username"  # Ganti dengan username Instagram Anda
-PASSWORD = "your_password"  # Ganti dengan password Instagram Anda
+USERNAME = "dazitzy"  # Ganti dengan username Instagram Anda
+PASSWORD = "GzAlfz252"  # Ganti dengan password Instagram Anda
 
 def login_to_instagram():
     cl = Client()
